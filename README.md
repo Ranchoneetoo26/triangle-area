@@ -1,7 +1,7 @@
 <!-- === === === === TEMPLATE MADE BY Ranchoneetoo26 === === === === === -->
 
 <h1 align="center">
-  <a href="https://edutech-Ranchoneetoo26.vercel.app">EDUTECH - 2024</a>
+  Calculate Triangle Area - 2024
 </h1>
 <h6 align="center" lang="pt-br">
   🌎 Paraná, Brazil
